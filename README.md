@@ -1,2 +1,2 @@
-# euclidean_distances
-Calculation of object A's Silhouette Score through OOP
+# Euclidean distances
+Exemple of how to calculate the Silhouette Score using OOP, along with a brief definition of Euclidean Distances and its use in Machine Learnig
